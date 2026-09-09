@@ -7,7 +7,5 @@ This webpage is designed to inform the public about the risks, characteristics, 
 ### Key Content Included
 
 * Overview of snake season dynamics in Arizona (peak months: July & August).
-* Information on the services provided by the **Arizona Poison and Drug Information Center** (Helpline: `800-222-1222`).
+* Information on the services provided by the **Arizona Poison and Drug Information Center** (Helpline: 800-222-1222).
 * 5 critical facts regarding baby rattlesnakes, venom potency, and rattle warnings.
-
-<sub>*README file written with the help of Gemini*</sub>
