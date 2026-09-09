@@ -32,9 +32,9 @@ h1 {
   background-color:#f8f8f8;
 }
 
-p {
+p, ol {
   font-family: "Garamond", serif;
-  font-size: 22px
+  font-size: 22px;
 }
 
 table {
